@@ -198,24 +198,26 @@ Examples of technical documents:
 
       1. Color
 
-         * Good example:
+         * Bad example:
 
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/h.png)
 
 
-         * Bad example:
+         * Good example:
          
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/i.png)
-
-
-         * Good:
-
 
 
          * Bad:
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/j.png)
+
+         * Good:
+         
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/k.png)
+         
+
 
 
          * Add color to headings:
