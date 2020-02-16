@@ -25,11 +25,11 @@ Examples of technical documents:
 
 1. Plan
    1. Purpose -  
-Requirements (identify what is to be built and if it meets stakeholders’ expectations), 
-Design/architecture  (describe how system will be constructed, critical components and connections), 
-Code/documentation (helps developers complete their tasks and understand what others do)
-Test plans/test cases (approach)
-End-user (enable task-completion, provide support)
+      1. Requirements (identify what is to be built and if it meets stakeholders’ expectations), 
+      2. Design/architecture  (describe how system will be constructed, critical components and connections), 
+      3. Code/documentation (helps developers complete their tasks and understand what others do)
+      4. Test plans/test cases (approach)
+      5. End-user(enable task-completion, provide support)
 
 e.g.:
 Persuade readers to think or act in a certain way (e. g. proposal for funding)
