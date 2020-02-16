@@ -239,6 +239,7 @@ Examples of technical documents:
          * Size
          
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/p.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/q.png)
 
 
 
@@ -247,7 +248,7 @@ Examples of technical documents:
       3. Whitespace - the more white space is around the element, the more important it seems to the reader.
 
 
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/q.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/r.png)
 
 
 ###### Page design elements
@@ -263,7 +264,10 @@ Examples of technical documents:
    * Capitalize the first word of each bullet
    * Use numbers to show sequence (but use bullets if sequence doesn’t matter)
    * Make specific numbers in sequences for different headings:
-   
+ 
+ ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/s.png)
+
+  
 * Captions (descriptions of graphs/tables under them):
    * Specify Figure number
    * Specify the fact which is shown in the graph to help the reader catch it quickly (e. g. “Profit of ABC dropped in 2017”)
@@ -273,6 +277,8 @@ Examples of technical documents:
 
 * Visuals
    * Screenshots
+   ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/t.png)
+
    * Underline an important part
    * Icons/symbols - used to highlight, should be simple and easily recognized
    * Tables
@@ -284,6 +290,18 @@ Examples of technical documents:
 
 
 ## IV. How to write requirements
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/u.png)
+
+Percentage of successful / challenged (completed with extra time/money/sources) / failed software projects:
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/v.png)
+
+Reasons for challenging / failure:
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/w.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/x.png)
+
 
 * How requirements should be?
 
@@ -343,8 +361,19 @@ Examples of technical documents:
 
    * User story - one or more sentence in everyday or a business language describing what a user needs to do:
 E. g. - As a <type of user> I want <some goal> for <some reason>
+   
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/y.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z.png)
+
 
    * Use cases (disadvantage - unlikely to use in agile development)
+   
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z1.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z2.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z3.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z4.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z5.png)
+
 
    * Traditional (text-based) writing style - one or more sentences used to specify high-level functionality for business or stakeholders
 
