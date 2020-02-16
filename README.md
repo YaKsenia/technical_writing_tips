@@ -23,7 +23,8 @@ White papers
 Websites
 
 
-The writing process
+## I. The writing process
+
 Plan
 Purpose -  
 Requirements (identify what is to be built and if it meets stakeholders’ expectations), 
@@ -79,7 +80,7 @@ Create a plan for updates
 
 
 
-II. Writing tips and best practices
+## II. Writing tips and best practices
 
 Style guides - set of rules for designing documents (also called style sheets), may be used as a framework.
 
@@ -143,7 +144,7 @@ Alred, Brusaw, Oliu. Handbook of Technical writing
 Hacker, Sommers. A pocket style manual
 
 
-III. Layout and design
+## III. Layout and design
 
 Web-safe fonts: displayed correctly regardless operating system, use only them!
 
@@ -280,7 +281,7 @@ Flow charts - sequence (may be with icons)
 
 
 
-Requirements
+## IV. Requirements
 
 
 
