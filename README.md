@@ -145,7 +145,12 @@ Examples of technical documents:
 
 ## III. Layout and design
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/a.png)
+
    * Web-safe fonts: displayed correctly regardless operating system, use only them!
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/b.png)
+
 
    * Courier new font is commonly used for showing code.
 
@@ -161,16 +166,17 @@ Examples of technical documents:
 
    * Bad example -> Good example:
 
-
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/c.png)
 
    * Bad example:
 
-
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/d.png)
 
 
    * Good example:
 
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/e.png)
 
 
 
