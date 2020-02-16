@@ -26,9 +26,9 @@ Examples of technical documents:
 1. Plan
    1. Purpose -  
       1. Requirements (identify what is to be built and if it meets stakeholders’ expectations), 
-      2. Design/architecture  (describe how system will be constructed, critical components and connections), 
-      3. Code/documentation (helps developers complete their tasks and understand what others do)
-      4. Test plans/test cases (approach)
+      2. Design / architecture  (describe how system will be constructed, critical components and connections), 
+      3. Code / documentation (helps developers complete their tasks and understand what others do)
+      4. Test plans / test cases (approach)
       5. End-user(enable task-completion, provide support)
          e.g.:
          * Persuade readers to think or act in a certain way (e. g. proposal for funding)
@@ -37,11 +37,11 @@ Examples of technical documents:
          * Change their attitude
 
    2. Audience
-      Can be more than one type: divide for primary (target reader, requested it) and secondary (may contact with it but                                                      are not intended readers). Better create separate documents for each.
-Questions that should be answered at the beginning?
-      1. What do they already know?
-      2. Why are they reading (getting errors etc)
-      3. What they need to know right now?
+      * Can be more than one type: divide for primary (target reader, requested it) and secondary (may contact with it but                                                      are not intended readers). Better create separate documents for each.
+      * Questions that should be answered at the beginning?
+         1. What do they already know?
+         2. Why are they reading (getting errors etc.)
+         3. What they need to know right now?
 
    3. Delivery
    
@@ -57,104 +57,101 @@ Questions that should be answered at the beginning?
    * Use the software
 
 3. Write
-Organize your content and ideas (e.g. chronological, or simple to complex, or specific to general etc.)
-Write the first draft
-Review and revise: 
-Does the document fulfill original purpose?
-Do you need to add something?
-To remove something?
-What questions can the reader have?
-Is the writing easy to understand?
-Structure
+   1. Organize your content and ideas (e.g. chronological, or simple to complex, or specific to general etc.)
+   2. Write the first draft
+   3. Review and revise: 
+      * Does the document fulfill original purpose?
+      * Do you need to add something?
+      * To remove something?
+      * What questions can the reader have?
+      * Is the writing easy to understand?
+      * Structure
 
-4. Review/Edit  + better ask someone else to do it too
-Adjust and reorganize
-Editing for style
-Incorporate test results
-Print out
-Cut unnecessary parts
-Usability testing - make a user go through the document line-by-line and do stuff, use a live system, observe the process, ask for think-out-louds
-Launch
-Coordinate with developers for common release with the software
-Create a plan for updates
+4. Review / Edit  + better ask someone else to do it too
+   1. Adjust and reorganize
+   2. Editing for style
+   3. Incorporate test results
+   4. Print out
+   5. Cut unnecessary parts
+   6. Usability testing - make a user go through the document line-by-line and do stuff, use a live system, observe the process, ask for think-out-louds
+   7. Launch
+   8. Coordinate with developers for common release with the software
+   9. Create a plan for updates
 
 
 
 ## II. Writing tips and best practices
 
-Style guides - set of rules for designing documents (also called style sheets), may be used as a framework.
+* Style guides - set of rules for designing documents (also called style sheets), may be used as a framework.
 
-Principles for writing documentation:
+* Universal principles for writing documentation:
  
-Accuracy
-Documental - proper coverage of topics with appropriate detail, solves a problem
-Stylistic - meanings are used correctly and are specific enough
-Technically correct -  (SME consultation can help)
+   * Accuracy
+      * Documental - proper coverage of topics with appropriate detail, solves a problem
+      * Stylistic - meanings are used correctly and are specific enough
+      * Technically correct -  (SME consultation can help)
 
-Clarity - ease of understanding
-Structural
-Abstracts/Introductions/ 
-Tables of contents
-Graphs
-Headings and titles
-Stylistic
-Be specific (e. g. explain what is “user-friendly”, replace “fast” with “within 2 seconds”)
-Speak with the active voice instead of passive (not “The app is used”, but “The developer uses the app”)
-Shorten where possible: e.g. “make an assumption” = “assume”, “is a requirement” = “requires”
-Contextual
-State the purpose
-What precedes this document?
-How does this document relate to others?
-
-
-Conciseness
-
-Use visuals rather than words
-Remove unnecessary repetitions (e.g. “maximize as much as possible” = “maximize”, “small in size” = “small”)
-Never use “In other words”, say it well at the first time
-Active voice (e. g. “Check A for errors” instead of - “A should be checked for errors”)
+   * Clarity - ease of understanding
+      * Structural
+         * Abstracts/Introductions/ 
+         * Tables of contents
+         * Graphs
+         * Headings and titles
+      * Stylistic 
+         * Be specific (e. g. explain what is “user-friendly”, replace “fast” with “within 2 seconds”)
+         * Speak with the active voice instead of passive (not “The app is used”, but “The developer uses the app”)
+         * Shorten where possible: e.g. “make an assumption” = “assume”, “is a requirement” = “requires”
+      * Contextual
+         * State the purpose
+         * What precedes this document?
+         * How does this document relate to others?
 
 
-Tone
+   * Conciseness
 
-Be conversational - write the way you talk.
-Be personal - show personality, not like it is written by a machine
+      * Use visuals rather than words
+      * Remove unnecessary repetitions (e.g. “maximize as much as possible” = “maximize”, “small in size” = “small”)
+      * Never use “In other words”, say it well at the first time
+      * Active voice (e. g. “Check A for errors” instead of - “A should be checked for errors”)
 
-Tense - stay consistent, use present/future
 
-Grammar
+   * Tone
 
-The most misused words:
-their/there/they’re
-its/it’s
-set up/ setup (verb - noun)
-back up/ backup 
-log in/ login
-i.e. (that is, specifically) / e.g.
-warning (about smth which can injure of kill a person)/ caution (about smth which can cause damage to equipment or loss of data)/ note (important, but nothing bad will happen if the user will not read it)
-backward, toward, forward - no ‘s’ at the end
-double-click, right-click - always hyphenated
-website/web site - depends on style guide
-email/e-mail - same
+      * Be conversational - write the way you talk
+      * Be personal - show personality, not like it is written by a machine
+      * Tense - stay consistent, use present/future
 
-Additional resources:
+   * Grammar
 
-Stunk, White. Elements of style
-Alred, Brusaw, Oliu. Handbook of Technical writing
-Hacker, Sommers. A pocket style manual
+   * The most misused words:
+      * their/there/they’re
+      * its/it’s
+      * set up/ setup (verb - noun)
+      * back up/ backup 
+      * log in/ login
+      * i.e. (that is, specifically) / e.g.
+      * warning (about smth which can injure of kill a person)/ caution (about smth which can cause damage to equipment or loss of data)/ note (important, but nothing bad will happen if the user will not read it)
+      * backward, toward, forward - no ‘s’ at the end
+      * double-click, right-click - always hyphenated
+      * website/web site - depends on style guide
+      * email/e-mail - same
+
+   * Additional resources:
+
+      * Stunk, White. Elements of style
+      * Alred, Brusaw, Oliu. Handbook of Technical writing
+      * Hacker, Sommers. A pocket style manual
 
 
 ## III. Layout and design
 
-Web-safe fonts: displayed correctly regardless operating system, use only them!
+   * Web-safe fonts: displayed correctly regardless operating system, use only them!
 
+   * Courier new font is commonly used for showing code.
 
+   * Reading the text with CAPS takes 10% more time.
 
-! Courier new font is commonly used for showing code.
-
-! Reading the text with CAPS takes 10% more time.
-
-! Make the text copyable (no text on images).
+   * Make the text copyable (no text on images).
 
 
 
