@@ -155,244 +155,176 @@ Examples of technical documents:
 
 
 
-Design principles:
+###### Design principles:
 
-Alignment
-The placement of elements along the common rows and columns, or their bodies along a common center.
+* Alignment - placement of the elements along the common rows and columns, or their bodies along a common center.
 
-Bad example -> Good example:
+   * Bad example -> Good example:
 
 
 
-Bad example:
+   * Bad example:
 
 
 
 
-Good example:
+   * Good example:
 
 
 
 
 
-Proximity
+* Proximity
 
-Elements which are placed close to each other are perceived more related than the elements which are far apart.
+   * Elements which are placed close to each other are perceived more related than the elements which are far apart.
 
-Create groups - brain creates shapes around objects and perceives them easier. Place the illustations logically (e.g. here the picture should be a part of the solution, not a problem statement).
+   * Create groups - brain creates shapes around objects and perceives them easier. Place the illustations logically (e.g. here the picture should be a part of the solution, not a problem statement).
 
 
 
-Visual hierarchy
+* Visual hierarchy - create a visual contrast to help users understand what’s important.
 
-Create a visual contrast to help users understand what’s important.
+   * 3 ways to show contrast:
 
-3 ways to show contrast:
+      1. Color
 
-Color
-Good example:
+         * Good example:
 
 
-Bad example:
+         * Bad example:
 
 
 
-Good:
+         * Good:
 
 
 
-Bad:
+         * Bad:
 
 
 
+         * Add color to headings:
 
-Add color to headings:
 
 
 
+      2. Shape
 
-Shape
 
+         * Before/after adding contrast:
 
 
 
+         * Size
 
-Before/after adding contrast:
 
 
 
-Size
 
+      3. Whitespace - the more white space is around the element, the more important it seems to the reader.
 
 
 
 
-Whitespace
+###### Page design elements
 
-The more white space is around the element, the more important it seems to the reader.
+* Table of contents - allows readers to locate information in the document easily
+* Place headings and subheadings in the order how they appear in the document
+* Make revision history: who made which changes to the document and when
+* Headers and footers - page number, the name of section/subsection, date of the document, document path, copyright
 
+* Lists & bullet points: 
+   * Include only a piece of information per bullet point, not an entire paragraph
+   * Start each bullet in the same way: e.g. a verb or a noun.
+   * Capitalize the first word of each bullet
+   * Use numbers to show sequence (but use bullets if sequence doesn’t matter)
+   * Make specific numbers in sequences for different headings:
+   
+* Captions (descriptions of graphs/tables under them):
+   * Specify Figure number
+   * Specify the fact which is shown in the graph to help the reader catch it quickly (e. g. “Profit of ABC dropped in 2017”)
+   * The caption should be to the left down side of the figure, not in the center down.
+   
+* Glossary - end of document
 
-
-
-Page design elements
-
-Table of contents - allows readers to locate information in the document easily
-Place headings and subheadings in the order how they appear in the document
-Make revision history: who made which changes to the document and when
-
-
-Headers and footers - page number, the name of section/subsection, date of the document, document path, copyright
-
-Lists & bullet points: 
-Include only a piece of information per bullet point, not an entire paragraph
-Start each bullet in the same way: e.g. a verb or a noun.
-Capitalize the first word of each bullet
-Use numbers to show sequence (but use bullets if sequence doesn’t matter)
-Make specific numbers in sequences for different headings:
-
-
-
-Captions (descriptions of graphs/tables under them)
-Specify Figure number
-Specify the fact which is shown in the graph to help the reader catch it quickly (e. g. “Profit of ABC dropped in 2017”)
-The caption should be to the left down side of the figure, not in the center down.
-
-
-
-Glossary - end of document
-
-
-Visuals
-
-Screenshots
-good to underline an important part
-
-
-
-Icons/symbols - used to highlight, should be simple and easily recognized
-Tables
-Line graphs - show trends
-Bar/column graph - comparison of values
-Pie chart - show percentage
-Flow charts - sequence (may be with icons)
+* Visuals
+   * Screenshots
+   * Underline an important part
+   * Icons/symbols - used to highlight, should be simple and easily recognized
+   * Tables
+   * Line graphs - show trends
+   * Bar/column graph - comparison of values
+   * Pie chart - show percentage
+   * Flow charts - sequence (may be with icons)
 
 
 
 ## IV. Requirements
 
+* How requirements should be?
 
+   * Unitary - one requirement at a time
+   * Requirement should be complete - no missing information, everything is in one place
+   * Consistent - doesn’t contradict with any other requirements
+   * Atomic:
+      e. g. not “Validate Fields A and B”, but: 
+      1) Validate field A 
+      2) Validate field B
+   * Traceability - every requirement can be traced back to some need of the stakeholders and documented
+   * Current - it shouldn’t be made obsolete by the passage of time
+   * Unambiguous - can be interpreted only in one way, express facts.
+   * Specify level of importance - high, medium, low (some requirements are not necessary, but just good to have).
+   * Verifiable - can be determined by inspection, demonstration or analysis.
 
+* Two different perspectives for requirements:
 
+   1. User’s perspective
+      * Should be written as:
+         * User type (The [user class or actor name])
+         * Result type (Shall be able to [do something])
+         * Object (To [something])
+         * Qualifier (response time goal or quality objective) - e. g. “in two clicks”
+      
+2. System’s perspective
+      * Conditions (“When [some conditions are met]”)
+      * Result (“the system [shall do something]”)
+      * Qualifier (response time goal or quality objective)
 
+* Levels of detail:
+   * Use cases - high
+   * Traditional (text-based) - medium
+   * User stories - low
 
+* Requirement types:
+   * Business
+   * User (Stakeholder)
+   * Functional
+   * Non-functional
+   * Interface
 
+* How to write a good requirement?
+   * Use terms consistently (not “notification” in one part of the text and “alert” - in the other)
+   * Define terms in a glossary
+   * Use an active voice
+   * Be careful of boundary values (“less than” is different from “less than or equal to”)
+   * Avoid negation:
+      * Bad example - Users without an account cannot log in to the system
+      * Good example - Only users with an account can log in to the system
 
+   * Don’t give names to components of a future system
+   * Don’t speculate (never say "usually", "often", "typically")
+   * Don’t express possibilities ("can", "probably" etc.)
 
+* Types of requirements
 
-
-How requirements should be?
-
-Unitary - one requirement at a time
-Requirement should be complete - no missing information, everything is in one place
-Consistent - doesn’t contradict with any other requirements
-Atomic:
-e. g. not “Validate Fields A and B”, but: 
-1) Validate field A 
-2) Validate field B
-Traceability - every requirement can be traced back to some need of the stakeholders and documented
-Current - it shouldn’t be made obsolete by the passage of time
-Unambiguous - can be interpreted only in one way, express facts.
-Specify level of importance - high, medium, low (some requirements are not necessary, but just good to have).
-Verifiable - can be determined by inspection, demonstration or analysis.
-
-Two different perspectives for requirements:
-User’s perspective
-Should be written as:
-User type (The [user class or actor name])
-Result type (Shall be able to [do something])
-Object (To [something])
-Qualifier (response time goal or quality objective) - e. g. “in two clicks”
-System’s perspective
-Conditions (“When [some conditions are met]”)
-Result (“the system [shall do something]”)
-Qualifier (response time goal or quality objective)
-
-Levels of detail:
-Use cases - high
-Traditional (text-based) - medium
-User stories - low
-
-Requirement types:
-Business
-User (Stakeholder)
-Functional
-Non-functional
-Interface
-
-How should a requirement be ?
-Use terms consistently (not “notification” in one part of the text and “alert” - in the other)
-Define terms in a glossary
-Use an active voice
-Be careful of boundary values (“less than” is different from “less than or equal to”)
-Avoid negation:
-Bad example - Users without an account cannot log in to the system
-Good example - Only users with an account can log in to the system
-
-Don’t give names to components of a future system
-Don’t speculate (usually, often, typically)
-Don’t express possibilities (can, probably etc)
-
-Types of requirements
-
-User story - one or more sentence in everyday or a business language describing what a user needs to do:
+   * User story - one or more sentence in everyday or a business language describing what a user needs to do:
 E. g. - As a <type of user> I want <some goal> for <some reason>
 
+   * Use cases (disadvantage - unlikely to use in agile development)
+
+   * Traditional (text-based) writing style - one or more sentences used to specify high-level functionality for business or stakeholders
 
 
+* UML - unified modelling language - diagrams
 
-
-
-
-Use cases
-
-
-
-
-
-
-
-
-
-
-
-
-(disadvantage - unlikely to use in agile development)
-
-UML - unified modelling language - diagrams
-
-Traditional (text-based) writing style - one or more sentences used to specify high-level functionality for business or stakeholders
-
-
-
-
-
-
-
-Types of requirements
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Software requirements specification (SRS)
-
-SRS - description of the software system to be developed.
+* Software requirements specification (SRS) - description of the software system to be developed.
