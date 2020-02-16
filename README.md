@@ -24,7 +24,7 @@ Examples of technical documents:
 ## I. The writing process
 
 1. Plan
-Purpose -  
+   1. Purpose -  
 Requirements (identify what is to be built and if it meets stakeholders’ expectations), 
 Design/architecture  (describe how system will be constructed, critical components and connections), 
 Code/documentation (helps developers complete their tasks and understand what others do)
