@@ -10,17 +10,17 @@ Examples of technical documents:
 
 * Case studies
 * Descriptions
-Emails
-Letters
-Instructions and procedures
-Memos
-Press releases
-Proposals
-Resumes
-Specifications
-Technical reports
-White papers
-Websites
+* Emails
+* Letters
+* Instructions and procedures
+* Memos
+* Press releases
+* Proposals
+* Resumes
+* Specifications
+* Technical reports
+* White papers
+* Websites
 
 
 ## I. The writing process
