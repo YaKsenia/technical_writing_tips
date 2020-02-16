@@ -30,30 +30,31 @@ Examples of technical documents:
       3. Code/documentation (helps developers complete their tasks and understand what others do)
       4. Test plans/test cases (approach)
       5. End-user(enable task-completion, provide support)
+         e.g.:
+         * Persuade readers to think or act in a certain way (e. g. proposal for funding)
+         * Enable them to perform a task
+         * Help them understand something (how the code work, to use it)
+         * Change their attitude
 
-e.g.:
-Persuade readers to think or act in a certain way (e. g. proposal for funding)
-Enable them to perform a task
-Help them understand something (how the code work, to use it)
-Change their attitude
+   2. Audience
+      Can be more than one type: divide for primary (target reader, requested it) and secondary (may contact with it but                                                      are not intended readers). Better create separate documents for each.
+Questions that should be answered at the beginning?
+      1. What do they already know?
+      2. Why are they reading (getting errors etc)
+      3. What they need to know right now?
 
-Audience
-Can be more than one type: divide for primary (target reader, requested it) and secondary (may contact with it but are not intended readers). Better create separate documents for each.
-Questions that should be answered ar the beginning?
-What do they already know?
-Why are they reading (getting errors etc)
-What they need to know right now?
-
-Delivery
+   3. Delivery
+   
+   
 2. Research
-Interview SMEs (Subject Matter experts)
-Prepare interview questions
-Keep them open-ended (e.g. “Please describe how users will interact with feature X”), ask if they have smth to add
-One question = one feature
-Tell about main topics before the interview, so they can prepare
-State goals to a person
-Review existing documentation
-Use the software
+   * Interview SMEs (Subject Matter experts)
+   * Prepare interview questions
+   * Keep them open-ended (e.g. “Please describe how users will interact with feature X”), ask if they have smth to add
+   * One question = one feature
+   * Tell about main topics before the interview, so they can prepare
+   * State goals to a person
+   * Review existing documentation
+   * Use the software
 
 3. Write
 Organize your content and ideas (e.g. chronological, or simple to complex, or specific to general etc.)
