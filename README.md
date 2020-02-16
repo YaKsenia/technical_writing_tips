@@ -228,14 +228,17 @@ Examples of technical documents:
 
       2. Shape
 
-
-         * Before/after adding contrast:
-
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/m.png)
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/n.png)
 
+         * Before/after adding contrast:
+         
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/o.png)
+
 
          * Size
+         
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/p.png)
 
 
 
@@ -244,6 +247,7 @@ Examples of technical documents:
       3. Whitespace - the more white space is around the element, the more important it seems to the reader.
 
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/q.png)
 
 
 ###### Page design elements
