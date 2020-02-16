@@ -223,7 +223,7 @@ Examples of technical documents:
          * Add color to headings:
 
 
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/k.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/l.png)
 
 
       2. Shape
@@ -231,6 +231,8 @@ Examples of technical documents:
 
          * Before/after adding contrast:
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/m.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/n.png)
 
 
          * Size
