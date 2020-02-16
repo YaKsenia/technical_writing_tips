@@ -259,7 +259,7 @@ Examples of technical documents:
 
 
 
-## IV. Requirements
+## IV. How to write requirements
 
 * How requirements should be?
 
