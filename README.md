@@ -189,6 +189,8 @@ Examples of technical documents:
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/f.png)
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/g.png)
+
 
 * Visual hierarchy - create a visual contrast to help users understand what’s important.
 
@@ -199,18 +201,16 @@ Examples of technical documents:
          * Good example:
 
 
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/g.png)
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/h.png)
 
 
          * Bad example:
-
-
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/h.png)
+         
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/i.png)
 
 
          * Good:
 
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/i.png)
 
 
          * Bad:
