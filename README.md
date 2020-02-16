@@ -377,7 +377,25 @@ E. g. - As a <type of user> I want <some goal> for <some reason>
 
    * Traditional (text-based) writing style - one or more sentences used to specify high-level functionality for business or stakeholders
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z6.png)
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z7.png)
+
+
+* Types of requirements:
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z8.png)
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z9.png)
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z10.png)
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z11.png)
+
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z12.png)
 
 * UML - unified modelling language - diagrams
 
 * Software requirements specification (SRS) - description of the software system to be developed.
+
