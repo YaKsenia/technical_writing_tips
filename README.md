@@ -24,13 +24,13 @@ Examples of technical documents:
 ## I. The writing process
 
 1. Plan
-   1. Purpose -  
-      1. Requirements (identify what is to be built and if it meets stakeholders’ expectations), 
-      2. Design / architecture  (describe how system will be constructed, critical components and connections), 
+   1. Purpose
+      1. Requirements (identify what is to be built and if it meets stakeholders’ expectations) 
+      2. Design / architecture  (describe how system will be constructed, critical components and connections) 
       3. Code / documentation (helps developers complete their tasks and understand what others do)
       4. Test plans / test cases (approach)
-      5. End-user(enable task-completion, provide support)
-         e.g.:
+      5. End-user (enable task-completion, provide support)
+        * e.g.:
          * Persuade readers to think or act in a certain way (e. g. proposal for funding)
          * Enable them to perform a task
          * Help them understand something (how the code work, to use it)
@@ -47,7 +47,7 @@ Examples of technical documents:
    
    
 2. Research
-   * Interview SMEs (Subject Matter experts)
+   * Interview SMEs (Subject Matter Experts)
    * Prepare interview questions
    * Keep them open-ended (e.g. “Please describe how users will interact with feature X”), ask if they have smth to add
    * One question = one feature
@@ -118,23 +118,23 @@ Examples of technical documents:
    * Tone
 
       * Be conversational - write the way you talk
-      * Be personal - show personality, not like it is written by a machine
-      * Tense - stay consistent, use present/future
+      * Be personal - show personality, do not have a tone like it is written by a machine
+      * Tense - stay consistent, use present / future
 
    * Grammar
 
    * The most misused words:
-      * their/there/they’re
-      * its/it’s
-      * set up/ setup (verb - noun)
-      * back up/ backup 
-      * log in/ login
+      * their / there / they’re
+      * its / it’s
+      * set up / setup (verb - noun)
+      * back up / backup 
+      * log in / login
       * i.e. (that is, specifically) / e.g.
-      * warning (about smth which can injure of kill a person)/ caution (about smth which can cause damage to equipment or loss of data)/ note (important, but nothing bad will happen if the user will not read it)
+      * warning (about smth which can injure of kill a person) / caution (about smth which can cause damage to equipment or loss of data) / note (important, but nothing bad will happen if the user will not read it)
       * backward, toward, forward - no ‘s’ at the end
       * double-click, right-click - always hyphenated
-      * website/web site - depends on style guide
-      * email/e-mail - same
+      * website / web site - depends on style guide
+      * email / e-mail - same
 
    * Additional resources:
 
@@ -185,9 +185,13 @@ Examples of technical documents:
    * Elements which are placed close to each other are perceived more related than the elements which are far apart.
 
    * Create groups - brain creates shapes around objects and perceives them easier. Place the illustations logically (e.g. here the picture should be a part of the solution, not a problem statement).
+   
+   Bad example:
 
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/f.png)
+
+Bad example -> Good example
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/g.png)
 
@@ -200,46 +204,44 @@ Examples of technical documents:
 
          * Bad example:
 
-
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/h.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/h.png)
 
 
          * Good example:
          
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/i.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/i.png)
 
 
          * Bad:
 
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/j.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/j.png)
 
          * Good:
          
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/k.png)
-         
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/k.png)
 
 
 
          * Add color to headings:
 
 
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/l.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/l.png)
 
 
       2. Shape
 
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/m.png)
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/n.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/m.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/n.png)
 
          * Before/after adding contrast:
          
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/o.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/o.png)
 
 
          * Size
          
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/p.png)
-![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/q.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/p.png)
+         ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/q.png)
 
 
 
