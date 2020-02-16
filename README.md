@@ -23,7 +23,7 @@ Examples of technical documents:
 
 ## I. The writing process
 
-Plan
+1. Plan
 Purpose -  
 Requirements (identify what is to be built and if it meets stakeholders’ expectations), 
 Design/architecture  (describe how system will be constructed, critical components and connections), 
@@ -45,7 +45,7 @@ Why are they reading (getting errors etc)
 What they need to know right now?
 
 Delivery
-Research
+2. Research
 Interview SMEs (Subject Matter experts)
 Prepare interview questions
 Keep them open-ended (e.g. “Please describe how users will interact with feature X”), ask if they have smth to add
@@ -55,7 +55,7 @@ State goals to a person
 Review existing documentation
 Use the software
 
-Write
+3. Write
 Organize your content and ideas (e.g. chronological, or simple to complex, or specific to general etc.)
 Write the first draft
 Review and revise: 
@@ -65,7 +65,8 @@ To remove something?
 What questions can the reader have?
 Is the writing easy to understand?
 Structure
-Review/Edit  + better ask someone else to do it too
+
+4. Review/Edit  + better ask someone else to do it too
 Adjust and reorganize
 Editing for style
 Incorporate test results
