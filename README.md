@@ -401,3 +401,9 @@ E. g. - As a <type of user> I want <some goal> for <some reason>
 
 * Software requirements specification (SRS) - description of the software system to be developed.
 
+## V. References
+
+This article was written based on the online course ["Technical Writing: Documentation on Software Projects" on Pluralsight](
+https://www.pluralsight.com/courses/technical-writing-software-documentation) by Amber Israelsen. 
+
+
