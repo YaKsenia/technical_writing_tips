@@ -8,8 +8,8 @@ The goal of technical writing is to "get" information from the heads of creators
 
 Examples of technical documents:
 
-Case studies
-Descriptions
+* Case studies
+* Descriptions
 Emails
 Letters
 Instructions and procedures
