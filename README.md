@@ -187,6 +187,8 @@ Examples of technical documents:
    * Create groups - brain creates shapes around objects and perceives them easier. Place the illustations logically (e.g. here the picture should be a part of the solution, not a problem statement).
 
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/f.png)
+
 
 * Visual hierarchy - create a visual contrast to help users understand what’s important.
 
@@ -197,21 +199,29 @@ Examples of technical documents:
          * Good example:
 
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/g.png)
+
+
          * Bad example:
 
+
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/h.png)
 
 
          * Good:
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/i.png)
 
 
          * Bad:
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/j.png)
 
 
          * Add color to headings:
 
 
+![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/k.png)
 
 
       2. Shape
