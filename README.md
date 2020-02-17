@@ -60,21 +60,21 @@ Examples of technical documents:
    1. Purpose
       1. Requirements (identify what is to be built and if it meets stakeholders’ expectations) 
       2. Design / architecture  (describe how system will be constructed, critical components and connections) 
-      3. Code / documentation (helps developers complete their tasks and understand what others do)
-      4. Test plans / test cases (approach)
+      3. Code / documentation (help developers complete their tasks and understand what others do)
+      4. Test plans / test cases (describe the approach to be used)
       5. End-user (enable task-completion, provide support)
         * e.g.:
-         * Persuade readers to think or act in a certain way (e. g. proposal for funding)
-         * Enable them to perform a task
-         * Help them understand something (how the code work, to use it)
-         * Change their attitude
+            * Persuade readers to think or act in a certain way (e. g. proposal for funding)
+            * Enable them to perform a task
+            * Help them understand something (how the code work, to use it)
+            * Change their attitude
 
    2. Audience
-      * Can be more than one type: divide for primary (target reader, requested it) and secondary (may contact with it but                                                      are not intended readers). Better create separate documents for each.
-      * Questions that should be answered at the beginning?
+      * Can be more than one type: divide for primary (target reader who requested it) and secondary (the one who may be in contact with it but is not an intended reader). Better create separate documents for each.
+      * Questions that should be answered at the beginning:
          1. What do they already know?
-         2. Why are they reading (getting errors etc.)
-         3. What they need to know right now?
+         2. Why are they reading (e. g. they are getting errors and look for ways to fix them etc.)
+         3. What do they need to know right now?
 
    3. Delivery
    
@@ -102,7 +102,7 @@ Examples of technical documents:
       * Structure
       
 <a name="review"></a>
-4. Review / Edit  + better ask someone else to do it too
+4. Review / Edit + better ask someone else to do it, too
    1. Adjust and reorganize
    2. Editing for style
    3. Incorporate test results
@@ -117,26 +117,26 @@ Examples of technical documents:
 <a name="writingtipsandbestpractices"></a>
 ## II. Writing tips and best practices
 
-* Style guides - set of rules for designing documents (also called style sheets), may be used as a framework.
+* Style guides - set of rules for designing documents (also called "style sheets"), may be used as a framework.
 
 * Universal principles for writing documentation:
  
    <a name="accuracy"></a>
    * Accuracy
-      * Documental - proper coverage of topics with appropriate detail, solves a problem
+      * Documental - proper coverage of topics with appropriate detail, should solve a problem
       * Stylistic - meanings are used correctly and are specific enough
-      * Technically correct -  (SME consultation can help)
+      * Technically correct -  SME consultation can help with it
 
    <a name="clarity"></a>
    * Clarity - ease of understanding
       * Structural
-         * Abstracts/Introductions/ 
+         * Abstracts / Introductions
          * Tables of contents
          * Graphs
          * Headings and titles
       * Stylistic 
          * Be specific (e. g. explain what is “user-friendly”, replace “fast” with “within 2 seconds”)
-         * Speak with the active voice instead of passive (not “The app is used”, but “The developer uses the app”)
+         * Speak with active voice instead of passive (not “The app is used”, but “A developer uses the app”)
          * Shorten where possible: e.g. “make an assumption” = “assume”, “is a requirement” = “requires”
       * Contextual
          * State the purpose
@@ -192,9 +192,9 @@ Examples of technical documents:
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/b.png)
 
 
-   * Courier new font is commonly used for showing code.
+   * "Courier new" font is commonly used for showing code.
 
-   * Reading the text with CAPS takes 10% more time.
+   * Don't use CAPS. Reading the text with CAPS takes 10% more time.
 
    * Make the text copyable (no text on images).
 
