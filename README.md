@@ -15,9 +15,18 @@ Technical writing is a writing that helps users solve problems with technologies
 
 [II. Writing tips and best practices](#writingtipsandbestpractices)
 
+
 [III. Layout and design](#layout)
 
+* [Design principles](#principles)
+* [Visual hierarchy](#hierarchy)
+* [Page design elements](#elements)
+
 [IV. How to write requirements](#requirements)
+
+* [How requirements should be?](#how)
+* [Types of requirements](#types)
+* [How to write a good requirement?](#write_requirement)
 
 
 Examples of technical documents:
@@ -179,7 +188,7 @@ Examples of technical documents:
    * Make the text copyable (no text on images).
 
 
-
+<a name="principles"></a>
 ###### Design principles:
 
 * Alignment - placement of the elements along the common rows and columns, or their bodies along a common center.
@@ -215,6 +224,8 @@ Bad example -> Good example
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/g.png)
 
+
+<a name="hierarchy"></a>
 
 * Visual hierarchy - create a visual contrast to help users understand what’s important.
 
@@ -272,7 +283,7 @@ Bad example -> Good example
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/r.png)
 
-
+<a name="elements"></a>
 ###### Page design elements
 
 * Table of contents - allows readers to locate information in the document easily
@@ -325,19 +336,21 @@ Reasons for challenging / failure:
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/x.png)
 
 
+<a name="how"></a>
+
 * How requirements should be?
 
    * Unitary - one requirement at a time
-   * Requirement should be complete - no missing information, everything is in one place
-   * Consistent - doesn’t contradict with any other requirements
+   * Complete - no missing information, everything is in one place
+   * Consistent - doesn’t contradict with any other requirement
    * Atomic:
       e. g. not “Validate Fields A and B”, but: 
       1) Validate field A 
       2) Validate field B
-   * Traceability - every requirement can be traced back to some need of the stakeholders and documented
+   * Traceable - every requirement can be traced back to some need of the stakeholders and documented
    * Current - it shouldn’t be made obsolete by the passage of time
    * Unambiguous - can be interpreted only in one way, express facts.
-   * Specify level of importance - high, medium, low (some requirements are not necessary, but just good to have).
+   * With specified level of importance - high, medium, low (some requirements are not necessary, but just good to have).
    * Verifiable - can be determined by inspection, demonstration or analysis.
 
 * Two different perspectives for requirements:
@@ -365,6 +378,8 @@ Reasons for challenging / failure:
    * Functional
    * Non-functional
    * Interface
+   
+<a name="write_requirement"></a>
 
 * How to write a good requirement?
    * Use terms consistently (not “notification” in one part of the text and “alert” - in the other)
@@ -378,6 +393,8 @@ Reasons for challenging / failure:
    * Don’t give names to components of a future system
    * Don’t speculate (never say "usually", "often", "typically")
    * Don’t express possibilities ("can", "probably" etc.)
+
+<a name="types"></a>
 
 * Types of requirements
 
@@ -402,9 +419,6 @@ E. g. - As a <type of user> I want <some goal> for <some reason>
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z6.png)
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z7.png)
-
-
-* Types of requirements:
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/z8.png)
 
