@@ -28,6 +28,8 @@ Technical writing is a writing that helps users solve problems with technologies
 * [Types of requirements](#types)
 * [How to write a good requirement?](#write_requirement)
 
+[ V. References](#references)
+
 
 Examples of technical documents:
 
@@ -434,6 +436,9 @@ E. g. - As a <type of user> I want <some goal> for <some reason>
 * UML - unified modelling language - diagrams
 
 * Software requirements specification (SRS) - description of the software system to be developed.
+
+
+<a name="references"></a>
 
 ## V. References
 
