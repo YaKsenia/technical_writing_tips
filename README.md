@@ -8,7 +8,7 @@ Technical writing is a writing that helps users solve problems with technologies
 
 [I. The writing process](#thewritingprocess)
 
-⋅⋅[1. Plan](#plan)
+1. [Plan](#plan)
 
 [II. Writing tips and best practices](#writingtipsandbestpractices)
 
