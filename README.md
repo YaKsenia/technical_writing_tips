@@ -7,8 +7,8 @@ Technical writing is a writing that helps users solve problems with technologies
 ##### Table of Contents  
 [I. The writing process](#i.thewritingprocess)  
 [II. Writing tips and best practices](#ii.writingtipsandbestpractices)
-<a name="headers"/>
-## Headers
+<a name="thewritingprocess"/>
+## I. The writing process
 
 Examples of technical documents:
 
