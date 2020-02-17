@@ -5,7 +5,7 @@ This repository is aimed to explain how to write technical documentation for sof
 Technical writing is a writing that helps users solve problems with technologies and technical subject matter. The goal of technical writing is to "get" information from the heads of creators (developers) and "put" it in the heads of users in the way that they can use it.
 
 ##### Table of Contents  
-[I. The writing process](https://github.com/YaKsenia/technical_writing_tips/#thewritingprocess)
+[I. The writing process](#thewritingprocess)
 
 [II. Writing tips and best practices](#writingtipsandbestpractices)
 
@@ -27,6 +27,7 @@ Examples of technical documents:
 * Websites
 
 
+<a name="thewritingprocess"></a>
 ## I. The writing process
 
 1. Plan
