@@ -9,6 +9,9 @@ Technical writing is a writing that helps users solve problems with technologies
 [I. The writing process](#thewritingprocess)
 
 1. [Plan](#plan)
+2. [Research](#research)
+3. [Write](#write)
+4. [Review](#review)
 
 [II. Writing tips and best practices](#writingtipsandbestpractices)
 
@@ -60,7 +63,7 @@ Examples of technical documents:
 
    3. Delivery
    
-   
+<a name="research"></a>
 2. Research
    * Interview SMEs (Subject Matter Experts)
    * Prepare interview questions
@@ -71,6 +74,7 @@ Examples of technical documents:
    * Review existing documentation
    * Use the software
 
+<a name="write"></a>
 3. Write
    1. Organize your content and ideas (e.g. chronological, or simple to complex, or specific to general etc.)
    2. Write the first draft
@@ -81,7 +85,8 @@ Examples of technical documents:
       * What questions can the reader have?
       * Is the writing easy to understand?
       * Structure
-
+      
+<a name="review"></a>
 4. Review / Edit  + better ask someone else to do it too
    1. Adjust and reorganize
    2. Editing for style
