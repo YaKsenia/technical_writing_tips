@@ -14,7 +14,11 @@ Technical writing is a writing that helps users solve problems with technologies
 4. [Review](#review)
 
 [II. Writing tips and best practices](#writingtipsandbestpractices)
-
+* [Accuracy](#accuracy)
+* [Clarity](#clarity)
+* [Conciseness](#conciseness)
+* [Tone](#tone)
+* [Grammar](#grammar)
 
 [III. Layout and design](#layout)
 
@@ -117,11 +121,13 @@ Examples of technical documents:
 
 * Universal principles for writing documentation:
  
+   <a name="accuracy"></a>
    * Accuracy
       * Documental - proper coverage of topics with appropriate detail, solves a problem
       * Stylistic - meanings are used correctly and are specific enough
       * Technically correct -  (SME consultation can help)
 
+   <a name="clarity"></a>
    * Clarity - ease of understanding
       * Structural
          * Abstracts/Introductions/ 
@@ -138,6 +144,7 @@ Examples of technical documents:
          * How does this document relate to others?
 
 
+   <a name="conciseness"></a>
    * Conciseness
 
       * Use visuals rather than words
@@ -146,26 +153,28 @@ Examples of technical documents:
       * Active voice (e. g. “Check A for errors” instead of - “A should be checked for errors”)
 
 
+   <a name="tone"></a>
    * Tone
 
       * Be conversational - write the way you talk
       * Be personal - show personality, do not have a tone like it is written by a machine
       * Tense - stay consistent, use present / future
 
+   <a name="grammar"></a>
    * Grammar
 
-   * The most misused words:
-      * their / there / they’re
-      * its / it’s
-      * set up / setup (verb - noun)
-      * back up / backup 
-      * log in / login
-      * i.e. (that is, specifically) / e.g.
-      * warning (about smth which can injure of kill a person) / caution (about smth which can cause damage to equipment or loss of data) / note (important, but nothing bad will happen if the user will not read it)
-      * backward, toward, forward - no ‘s’ at the end
-      * double-click, right-click - always hyphenated
-      * website / web site - depends on style guide
-      * email / e-mail - same
+      * The most misused words:
+         * their / there / they’re
+         * its / it’s
+         * set up / setup (verb - noun)
+         * back up / backup 
+         * log in / login
+         * i.e. (that is, specifically) / e.g.
+         * warning (about smth which can injure of kill a person) / caution (about smth which can cause damage to equipment or loss of data) / note (important, but nothing bad will happen if the user will not read it)
+         * backward, toward, forward - no ‘s’ at the end
+         * double-click, right-click - always hyphenated
+         * website / web site - depends on style guide
+         * email / e-mail - same
 
    * Additional resources:
 
