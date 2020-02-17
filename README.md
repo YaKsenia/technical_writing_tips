@@ -224,14 +224,15 @@ Examples of technical documents:
 
    * Elements which are placed close to each other are perceived more related than the elements which are far apart.
 
-   * Create groups - brain creates shapes around objects and perceives them easier. Place the illustations logically (e.g. here the picture should be a part of the solution, not a problem statement).
+   * Create groups - brain creates shapes around objects and perceives them easier.
    
    Bad example:
 
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/f.png)
 
-Bad example -> Good example
+   * Place the illustations logically (e.g. here the picture should be a part of the solution, not a problem statement). 
+   Bad example -> Good example
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/g.png)
 
