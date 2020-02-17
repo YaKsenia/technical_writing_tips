@@ -9,6 +9,10 @@ Technical writing is a writing that helps users solve problems with technologies
 
 [II. Writing tips and best practices](#writingtipsandbestpractices)
 
+[III. Layout and design](#layout)
+
+[IV. How to write requirements](#requirements)
+
 
 Examples of technical documents:
 
@@ -86,7 +90,7 @@ Examples of technical documents:
    9. Create a plan for updates
 
 
-
+<a name="writingtipsandbestpractices"></a>
 ## II. Writing tips and best practices
 
 * Style guides - set of rules for designing documents (also called style sheets), may be used as a framework.
@@ -149,7 +153,7 @@ Examples of technical documents:
       * Alred, Brusaw, Oliu. Handbook of Technical writing
       * Hacker, Sommers. A pocket style manual
 
-
+<a name="layout"></a>
 ## III. Layout and design
 
 ![alt text](https://github.com/YaKsenia/technical_writing_tips/blob/master/images/a.png)
@@ -296,7 +300,7 @@ Bad example -> Good example
    * Pie chart - show percentage
    * Flow charts - sequence (may be with icons)
 
-
+<a name="requirements"></a>
 
 ## IV. How to write requirements
 
