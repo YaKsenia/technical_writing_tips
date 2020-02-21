@@ -454,17 +454,11 @@ E. g. - As a <type of user> I want <some goal> for <some reason>
 
 ## V. Samples and templates for software documentation
 
-If your team is struggling to find a qualitative template for some type of software documentation, here are sources of documentation templates:
+Here are sources of documentation templates:
 
-* umkc.edu – a list of different testing, architectural, requirement documents, and plans.
+* [ReadTheDocs](https://software-documentation-template.readthedocs.io/en/latest/readme.html) is an all-in-one template made with ReadTheDocs platform, providing instructions on writing each type of document you may need, from architecture and UML diagrams to user manuals.
 
-* Atlassian Confluence Templates. Atlassian provides general-purpose project documentation templates with their product out of the box.
-
-* strongqa.com – documentation templates for quality assurance specialists. These include testing checklists, smoke testing templates, test plans, and more.
-
-* ReadySET is a large library of software documentation templates in HTML that include planning documents, architecture, design, requirements, testing, and many more.
-
-* ReadTheDocs is an all-in-one template made with ReadTheDocs platform, providing instructions on writing each type of document you may need, from architecture and UML diagrams to user manuals.
+* [ReadySET](http://readyset.tigris.org/nonav/templates/frameset.html) is a large library of software documentation templates in HTML that include planning documents, architecture, design, requirements, testing, and many more.
 
 
 <a name="references"></a>
