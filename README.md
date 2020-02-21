@@ -34,9 +34,11 @@ Technical writing is a writing that helps users solve problems with technologies
 
 [V. How to write software architecture document](#architecture)
 
-[VI. Samples and templates for software documentation](#samples)
+[VI. Source code document](#source_code)
 
-[ VII. References](#references)
+[VII. Samples and templates for software documentation](#samples)
+
+[ VIII. References](#references)
 
 
 Examples of technical documents:
@@ -468,10 +470,25 @@ Software architecture design documents include the main architectural decisions.
 
 * Diagrammatic representation of the solution. Identify the diagrams that need to be created to help understand and communicate the structure and design principles.
 
+<a name="source_code"></a> 
+
+## VI. Source code document
+
+A source code document is a technical section that explains how the code works. While it’s not necessary, the aspects that have the greatest potential to confuse should be covered. The main users of the source code documents are software engineers.
+
+Source code documents may include but are not limited to the following details:
+
+ * HTML generation framework and other frameworks applied
+ * Type of data binding
+ * Design pattern with examples (e.g. model-view-controller)
+ * Security measures
+ * Other patterns and principles
+
+Try to keep the document simple by making short sections for each element and supporting them with brief descriptions.
 
 <a name="samples"></a>
 
-## VI. Samples and templates for software documentation
+## VII. Samples and templates for software documentation
 
 Here are sources of documentation templates:
 
@@ -482,7 +499,7 @@ Here are sources of documentation templates:
 
 <a name="references"></a>
 
-## VI. References
+## VIII. References
 
 This article was written based on the online course ["Technical Writing: Documentation on Software Projects" on Pluralsight](
 https://www.pluralsight.com/courses/technical-writing-software-documentation) by Amber Israelsen. 
