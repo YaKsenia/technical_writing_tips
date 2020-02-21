@@ -32,9 +32,11 @@ Technical writing is a writing that helps users solve problems with technologies
 * [Types of requirements](#types)
 * [How to write a good requirement?](#write_requirement)
 
-[V. Samples and templates for software documentation](#samples)
+[V. How to write software architecture document](#architecture)
 
-[ V. References](#references)
+[VI. Samples and templates for software documentation](#samples)
+
+[ VII. References](#references)
 
 
 Examples of technical documents:
@@ -450,9 +452,26 @@ E. g. - As a <type of user> I want <some goal> for <some reason>
 * Software requirements specification (SRS) - description of the software system to be developed.
 
 
+<a name="architecture"></a>
+
+## V. How to write software architecture document
+
+Software architecture design documents include the main architectural decisions. Focus on the most relevant and challenging ones. An effective design and architecture document comprises the following information sections:
+
+* Software design document template. Discuss and form a consensus with stakeholders regarding what needs to be covered in the architecture design document before it has been created and use a defined template to map architectural solutions.
+
+* Architecture & Design Principles. Underline the guiding architecture and design principles with which you will engineer the product. For instance, if you plan to structure your solution using microservices architecture, don’t forget to specifically mention this.
+
+* User Story description. Connect user stories with associated business processes and related scenarios. Try to avoid technical details in this section.
+
+* Solution details. Describe the contemplated solution by listing planned services, modules, components, and their importance.
+
+* Diagrammatic representation of the solution. Identify the diagrams that need to be created to help understand and communicate the structure and design principles.
+
+
 <a name="samples"></a>
 
-## V. Samples and templates for software documentation
+## VI. Samples and templates for software documentation
 
 Here are sources of documentation templates:
 
