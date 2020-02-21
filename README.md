@@ -41,23 +41,6 @@ Technical writing is a writing that helps users solve problems with technologies
 [ VIII. References](#references)
 
 
-Examples of technical documents:
-
-* Case studies
-* Descriptions
-* Emails
-* Letters
-* Instructions and procedures
-* Memos
-* Press releases
-* Proposals
-* Resumes
-* Specifications
-* Technical reports
-* White papers
-* Websites
-
-
 <a name="thewritingprocess"></a>
 ## I. The writing process
 
