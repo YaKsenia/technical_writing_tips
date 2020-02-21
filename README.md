@@ -32,6 +32,8 @@ Technical writing is a writing that helps users solve problems with technologies
 * [Types of requirements](#types)
 * [How to write a good requirement?](#write_requirement)
 
+[V. Samples and templates for software documentation](#samples)
+
 [ V. References](#references)
 
 
@@ -448,9 +450,26 @@ E. g. - As a <type of user> I want <some goal> for <some reason>
 * Software requirements specification (SRS) - description of the software system to be developed.
 
 
+<a name="samples"></a>
+
+## V. Samples and templates for software documentation
+
+If your team is struggling to find a qualitative template for some type of software documentation, here are sources of documentation templates:
+
+* umkc.edu – a list of different testing, architectural, requirement documents, and plans.
+
+* Atlassian Confluence Templates. Atlassian provides general-purpose project documentation templates with their product out of the box.
+
+* strongqa.com – documentation templates for quality assurance specialists. These include testing checklists, smoke testing templates, test plans, and more.
+
+* ReadySET is a large library of software documentation templates in HTML that include planning documents, architecture, design, requirements, testing, and many more.
+
+* ReadTheDocs is an all-in-one template made with ReadTheDocs platform, providing instructions on writing each type of document you may need, from architecture and UML diagrams to user manuals.
+
+
 <a name="references"></a>
 
-## V. References
+## VI. References
 
 This article was written based on the online course ["Technical Writing: Documentation on Software Projects" on Pluralsight](
 https://www.pluralsight.com/courses/technical-writing-software-documentation) by Amber Israelsen. 
