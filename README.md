@@ -38,7 +38,9 @@ Technical writing is a writing that helps users solve problems with technologies
 
 [VII. Samples and templates for software documentation](#samples)
 
-[ VIII. References](#references)
+[VIII. Quality assurance documentation](#quality)
+
+[IX. References](#references)
 
 
 <a name="thewritingprocess"></a>
@@ -480,11 +482,34 @@ Here are sources of documentation templates:
 * [ReadySET](http://readyset.tigris.org/nonav/templates/frameset.html) is a large library of software documentation templates in HTML that include planning documents, architecture, design, requirements, testing, and many more.
 
 
+<a name="quality"></a>
+
+## VII. Quality assurance documentation
+
+There are different types of testing documents in agile. The most common ones are:
+
+ * Quality management plan. A quality management plan is an analog of a requirement document dedicated to testing. This document sets the required standard for product quality and describes the methods to achieve this level. The plan helps to schedule QA tasks and manage testing activity for product managers, but, it is mainly used for large-scale projects.
+ 
+ * Test strategy. A test strategy is a document that describes the software testing approach to achieve testing objectives. This document includes information about team structure and resource needs along with what should be prioritized during testing. A test strategy is usually static as the strategy is defined for the entire development scope.
+ 
+ * Test plan. A test plan usually consists of one or two pages and describes what should be tested at a given moment. This document should contain:
+   * The list of features to be tested
+   * Testing methods
+   * Timeframes
+   * Roles and responsibilities (e.g. unit tests may be performed either by the QA team or by engineers)
+   
+ * Test case specifications. A test case specifications document is a set of detailed actions to verify each feature or functionality of a product. Usually, a QA team writes a separate specifications document for each product unit. Test case specifications are based on the approach outlined in the test plan. A good practice is to simplify specifications description and avoid test case repetitions.
+
+ * Test checklists. Test checklist is a list of tests that should be run at a particular time. It represents what tests are completed and how many have failed. All points in the test checklists should be defined correctly. Try to group test points in the checklists. This approach will help you keep track of them during your work and not lose any. If it helps testers to check the app correctly, you can add comments to your points on the list.
+
+
 <a name="references"></a>
 
-## VIII. References
+## IX. References
 
-This article was written based on the online course ["Technical Writing: Documentation on Software Projects" on Pluralsight](
-https://www.pluralsight.com/courses/technical-writing-software-documentation) by Amber Israelsen. 
+This article was written based on:
+* The online course ["Technical Writing: Documentation on Software Projects" on Pluralsight](
+https://www.pluralsight.com/courses/technical-writing-software-documentation) by Amber Israelsen
+* The article ["Technical Documentation in Software Development: Types, Best Practices, and Tools"](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 
 
